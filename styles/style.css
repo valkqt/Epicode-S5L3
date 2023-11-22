@@ -116,10 +116,10 @@ nav a:nth-child(3) {
   nav {
     position: sticky;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: flex-start;
     align-items: stretch;
     gap: 1rem 0;
-    height: 80vh;
+    height: 72vh;
     width: 20%;
     top: 0;
     left: 0;
